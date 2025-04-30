@@ -1,3 +1,5 @@
+#!/bin/bash
+
 Input="$1"
 Output="$2"
 
